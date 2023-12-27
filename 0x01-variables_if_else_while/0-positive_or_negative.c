@@ -1,3 +1,4 @@
+#include <stdlib.h>
 #include <time.h>
 /**
  *  main - generate random numbers to detect -ve or +ve
